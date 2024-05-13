@@ -6,13 +6,13 @@ Parcours Data Scientist - Projet 8 : Déployez un modèle dans le cloud.
 
 **Contexte:**
 
-<s>La société:</s> **start-up de l'AgriTech** nommée "Fruits!"
+<u>La société:</u> **start-up de l'AgriTech** nommée "Fruits!"
 
-<s>La problématique:</S> proposer des **solutions innovantes pour la récolte des fruits**. 
+<u>La problématique:</u> proposer des **solutions innovantes pour la récolte des fruits**. 
 
 L'entreprise a une volonté forte de préserver la biodiversité des fruits en permettant des traitements spécifiques pour chaque espèce de fruits en développant des robots cueilleurs intelligents. 
 
-<s>La mission:</s> mettre à disposition du grand public **une application mobile** qui permettrait aux utilisateurs de **prendre en photo un fruit** et d'obtenir des informations sur ce fruit. Cette application permettrait de sensibiliser le grand public à la biodiversité des fruits.
+<u>La mission:</u> mettre à disposition du grand public **une application mobile** qui permettrait aux utilisateurs de **prendre en photo un fruit** et d'obtenir des informations sur ce fruit. Cette application permettrait de sensibiliser le grand public à la biodiversité des fruits.
 
 La première partie du travail consiste à mettre en place une première version du **moteur de classification des images de fruits**.
 
